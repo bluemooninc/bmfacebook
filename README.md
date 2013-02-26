@@ -14,7 +14,12 @@ usage: Add smarty for your theme below.
 [/ja]
 
 1:Get App ID and Secret code
-https://developers.facebook.com/
+login to https://developers.facebook.com/
+Display Name : your service name. ( ex:XoopsEC )
+Namespace : your service name space. ( ex:xoopsec )
+App Domains : your domain ( ex:xoopsec.com )
+Sandbox Mode : "DISABLE" ( if set enable, it works ONLY your account )
+Login site url : site url for facebook login ( ex:https://www.xoopsec.com/modules/bmfacebook/ )
 
 2:Install bmfacebook module on your site
 
