@@ -23,6 +23,9 @@ Login site url : site url for facebook login ( ex:https://www.xoopsec.com/module
 
 2:Install bmfacebook module on your site
 
+!!! Module update after install !!!
+Update program will make a user_facebook field on user table.
+
 3:set AppID/Secret on module admin panel
 
 4:add <{$facbookLogin}> to your theme html
