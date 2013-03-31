@@ -29,7 +29,7 @@ Update program will make a user_facebook field on user table.
 
 3:set AppID/Secret on module admin panel
 ----------------------------------------
-   [image]: http://dl.dropbox.com/u/31666676/github/facebookAppId.gif "Admin panel"
+![ScreenShot](http://dl.dropbox.com/u/31666676/github/facebookAppId.gif)
 
 4:add <{$facbookLogin}> to your theme html
 ------------------------------------------
