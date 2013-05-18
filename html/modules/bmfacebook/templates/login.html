@@ -9,10 +9,12 @@
 <{/if}>
 
 <{if $user}>
+	<{if $userObject}>
 	<h3>
 		<img src="https://graph.facebook.com/<{$user}>/picture">
 		<{$userObject->getShow('uname')}>
 	</h3>
+	<{/if}>
 	<a class="btn btn-primary" href="<{$xoops_url}>">Home</a>
 	<{*
 	<ul>

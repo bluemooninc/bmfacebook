@@ -9,7 +9,7 @@ if (!defined('XOOPS_ROOT_PATH')) exit();
 require './class/facebook.php';
 require './kernel/MyPageNavi.class.php';
 
-class indexAction extends AbstractAction
+class indexAction extends bmfacebook_AbstractAction
 {
 	private $facebook;
 	private $user;

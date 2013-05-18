@@ -42,3 +42,7 @@ Update program will make a user_facebook field on user table.
 
 Example theme
 https://github.com/bluemooninc/xoopstrap
+
+5:Update info
+------------------------------------------
+V0.04 rename AbstractAction to bmfacebook_AbstractAction and fix login.html

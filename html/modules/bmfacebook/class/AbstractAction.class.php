@@ -2,7 +2,7 @@
 if (!defined('XOOPS_ROOT_PATH')) exit();
 define('_USE_XOOPSMAILER', false);
 
-abstract class AbstractAction
+abstract class bmfacebook_AbstractAction
 {
   protected $isError = false;
   protected $errMsg = "";
